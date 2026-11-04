@@ -1,2 +1,1 @@
-# scalablethoughts.github.io
-Welcome
+# alokmalakar
